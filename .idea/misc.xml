@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/drawable/chat_incoming_message_background.xml" value="0.2085" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/drawable/chat_outgoing_message_background.xml" value="0.2085" />
         <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/drawable/message_background.xml" value="0.212" />
         <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
         <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/layout/activity_real_time.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/layout/chate.xml" value="0.13333333333333333" />
-        <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/layout/message_item.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/RealTime/app/src/main/res/layout/message_item.xml" value="0.25" />
       </map>
     </option>
   </component>
